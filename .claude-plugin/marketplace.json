@@ -7,7 +7,7 @@
   "plugins": [
     {
       "name": "postgres-setup",
-      "source": ".",
+      "source": "./",
       "description": "Standardized PostgreSQL database setup pattern with schema.sql and Python setup script. Supports project-specific naming, test databases, and follows best practices for Unix timestamps, UUIDs, and idempotent operations.",
       "version": "1.0.0",
       "author": {
