@@ -1,0 +1,11 @@
+{
+  "name": "postgres-setup",
+  "description": "PostgreSQL setup skill for Claude Code - standardized database setup pattern",
+  "plugins": [
+    {
+      "name": "postgres-setup",
+      "description": "Standardized PostgreSQL database setup pattern with schema.sql and Python setup script. Supports project-specific naming, test databases, and follows best practices for Unix timestamps, UUIDs, and idempotent operations.",
+      "path": "."
+    }
+  ]
+}
